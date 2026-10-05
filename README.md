@@ -4,8 +4,8 @@
 
 **38-module feature toolkit for AC8: Wings of Theve**
 
-<a href="https://github.com/limeswordsmanedge21/ac8-wings-modkit/releases/download/v1.0.0/AceCombat8_Trainer_v1.0.zip">
-  <img src="https://img.shields.io/badge/DOWNLOAD-ac8--wings--trainer_v1.0-28a745?style=for-the-badge&logo=github&logoColor=white" height="52"/>
+<a href="https://github.com/limeswordsmanedge21/ac8-wings-modkit/releases/download/v1.1/AceCombat8_Trainer_v1.1.zip">
+  <img src="https://img.shields.io/badge/DOWNLOAD-ac8--wings--trainer_v1.1-28a745?style=for-the-badge&logo=github&logoColor=white" height="52"/>
 </a>
 
 `Windows 11` `x64` `Latest Steam Build` `Free`
@@ -147,8 +147,8 @@ Game:    AC8: Wings of Theve (latest Steam version)
 
 <div align="center">
 
-<a href="https://github.com/limeswordsmanedge21/ac8-wings-modkit/releases/download/v1.0.0/AceCombat8_Trainer_v1.0.zip">
-  <img src="https://img.shields.io/badge/DOWNLOAD-ac8--wings--trainer_v1.0-28a745?style=for-the-badge&logo=github&logoColor=white" height="52"/>
+<a href="https://github.com/limeswordsmanedge21/ac8-wings-modkit/releases/download/v1.1/AceCombat8_Trainer_v1.1.zip">
+  <img src="https://img.shields.io/badge/DOWNLOAD-ac8--wings--trainer_v1.1-28a745?style=for-the-badge&logo=github&logoColor=white" height="52"/>
 </a>
 
 </div>
